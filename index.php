@@ -1,0 +1,3 @@
+<?
+echo "Stage Webapp";
+?>
